@@ -1,5 +1,8 @@
 # Projeto: Super Trunfo das Cidades – Nível Aventureiro
 
+## Desenvolvido por:
+Hugo Nascimento | Matrícula: 202505245409 | Curso: Análise e Desenvolvimento de Sistemas - Estácio
+
 ## Sobre o Projeto
 
 Este projeto é uma continuação do desafio anterior (Nível Básico) do curso de Análise e Desenvolvimento de Sistemas.
@@ -42,10 +45,6 @@ Não foram usados loops nem estruturas de decisão, conforme as instruções.
 O programa foi testado localmente e está funcionando corretamente.
 
 O código está devidamente comentado para facilitar o entendimento.
-
-## Autor
-Hugo Nascimento | Matrícula: 202505245409
-## Curso de Análise e Desenvolvimento de Sistemas – Estácio
 
 ## Licença
 Este projeto está sob a Licença MIT.
